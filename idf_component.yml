@@ -1,0 +1,17 @@
+version: "0.10.1~1"
+targets:
+  - esp32s2
+  - esp32s3
+description: Tiny and portable USB Stack (device & host) for embedded system with USB IP
+url: https://github.com/leeebo/CherryUSB
+repository: https://github.com/leeebo/CherryUSB.git
+issues: https://github.com/leeebo/CherryUSB/issues
+dependencies:
+  idf: ">=4.4.1"
+files:
+  exclude:
+    - "CMakeLists.txt"
+    - "tools/**/*"
+    - "third_party/**/*"
+    - "docs/**/*"
+    - "demo/**/*"
