@@ -10,7 +10,6 @@ dependencies:
   idf: ">=4.4.1"
 files:
   exclude:
-    - "CMakeLists.txt"
     - "tools/**/*"
     - "third_party/**/*"
     - "docs/**/*"
