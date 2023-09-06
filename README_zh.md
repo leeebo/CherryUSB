@@ -1,6 +1,6 @@
 # CherryUSB
 
-[English](./README.md)
+[English](./README_en.md)
 
 CherryUSB 是一个小而美的、可移植性高的、用于嵌入式系统(带 USB IP)的 USB 主从协议栈。
 

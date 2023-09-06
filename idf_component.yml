@@ -1,4 +1,4 @@
-version: "0.10.1~1"
+version: "0.10.1~3"
 targets:
   - esp32s2
   - esp32s3
@@ -14,3 +14,5 @@ files:
     - "third_party/**/*"
     - "docs/**/*"
     - "demo/**/*"
+    - "README_zh.md"
+    - "README_en.md"
